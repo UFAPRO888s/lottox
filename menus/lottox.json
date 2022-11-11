@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lottox",
+        "command": "lottox:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lottox",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lottox:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
