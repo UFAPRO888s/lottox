@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "lottox:toggle"
   },
-  "repository": "https://github.com/atom/lottox",
+  "repository": "https://github.com/UFAPRO888s/lottox",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
